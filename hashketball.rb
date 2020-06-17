@@ -16,7 +16,7 @@ def game_hash
   away: {
     team_name: {},
       colors: {},
-      players:
+      players:{}
       # [player_name: "Alan Anderson",
       #           assists: " ",
       #           blocks: " ",
@@ -27,6 +27,5 @@ def game_hash
       #           slam_dunks: " ",
       #           steals: " "
       #     ]
-  }
 }
 end
