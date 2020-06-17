@@ -3,7 +3,9 @@ def game_hash
     team_name: {},
       colors: {},
       players: [player_name: "Alan Anderson",
-                assists: " "
+                assists: " ",
+                blocks: " ",
+                number: " "
           ]
   },
   away: {
