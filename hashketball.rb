@@ -8,9 +8,9 @@ def game_hash
                 points: " ",
                 rebounds: " ",
                 assists: " ",
+                steals: " ",
                 blocks: " ",
-                slam_dunks: " ",
-                steals: " "
+                slam_dunks: " "
           ]
   },
   away: {
