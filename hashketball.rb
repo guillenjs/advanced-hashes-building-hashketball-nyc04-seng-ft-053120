@@ -52,7 +52,7 @@ def game_hash
   away: {
     team_name: {},
       colors: {},
-      players:[{player_name: "Brook Lopez",
+      players:[{player_name: "Jeff Adrien",
                 number: " ",
                 shoe: " ",
                 points: " ",
