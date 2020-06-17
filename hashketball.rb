@@ -5,9 +5,10 @@ def game_hash
       players: [player_name: "Alan Anderson",
                 number: " ",
                 shoe: " ",
+                points: " ",
                 assists: " ",
                 blocks: " ",
-                points: " ",
+
                 rebounds: " ",
                 slam_dunks: " ",
                 steals: " "
