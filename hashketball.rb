@@ -11,7 +11,7 @@ def game_hash
                 steals: 3,
                 blocks: 1,
                 slam_dunks: 1],
-                  [player_name: "Alan Anderson",
+                  [player_name: "Reggie Evans",
                           number: " ",
                           shoe: " ",
                           points: " ",
