@@ -6,10 +6,9 @@ def game_hash
                 number: " ",
                 shoe: " ",
                 points: " ",
+                rebounds: " ",
                 assists: " ",
                 blocks: " ",
-
-                rebounds: " ",
                 slam_dunks: " ",
                 steals: " "
           ]
