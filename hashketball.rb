@@ -16,16 +16,5 @@ def game_hash
   away: {
     team_name: {},
       colors: {},
-      players:[]
-      # [player_name: "Alan Anderson",
-      #           assists: " ",
-      #           blocks: " ",
-      #           number: " ",
-      #           points: " ",
-      #           rebounds: " ",
-      #           shoe: " ",
-      #           slam_dunks: " ",
-      #           steals: " "
-      #     ]
-}
+      players:[]}
 end
