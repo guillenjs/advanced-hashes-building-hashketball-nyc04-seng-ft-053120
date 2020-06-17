@@ -12,8 +12,8 @@ def game_hash
                 blocks: 1,
                 slam_dunks: 1},
                   {player_name: "Reggie Evans",
-                    number: " ",
-                    
+                    number: " "
+
                     }
                 ]
   },
