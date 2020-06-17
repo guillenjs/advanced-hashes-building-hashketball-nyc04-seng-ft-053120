@@ -19,7 +19,18 @@ def game_hash
                     assists: 12,
                     steals: 12,
                     blocks: 12,
-                    slam_dunks: 7}
+                    slam_dunks: 7},
+                    {player_name: "Brook Lopez",
+                              number: " ",
+                              shoe: " ",
+                              points: " ",
+                              rebounds: " ",
+                              assists: " ",
+                              steals: " ",
+                              blocks: " ",
+                              slam_dunks: " "
+                      
+                    }
                 ]
   },
   away: {
@@ -30,12 +41,12 @@ def game_hash
 end
 
 # [player_name: "Alan Anderson",
-          # number: " ",
-          # shoe: " ",
-          # points: " ",
-          # rebounds: " ",
-          # assists: " ",
-          # steals: " ",
-          # blocks: " ",
-          # slam_dunks: " "
+#           number: " ",
+#           shoe: " ",
+#           points: " ",
+#           rebounds: " ",
+#           assists: " ",
+#           steals: " ",
+#           blocks: " ",
+#           slam_dunks: " "
 #     ]
