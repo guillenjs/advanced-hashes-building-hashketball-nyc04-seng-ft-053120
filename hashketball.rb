@@ -11,7 +11,16 @@ def game_hash
                 steals: 3,
                 blocks: 1,
                 slam_dunks: 1},
-                  {player_name: "Reggie Evans"}
+                  {player_name: "Reggie Evans",
+                    number: " ",
+                    shoe: " ",
+                    points: " ",
+                    rebounds: " ",
+                    assists: " ",
+                    steals: " ",
+                    blocks: " ",
+                    slam_dunks: " "
+                  }
                 ]
   },
   away: {
@@ -22,12 +31,12 @@ def game_hash
 end
 
 # [player_name: "Alan Anderson",
-#           number: " ",
-#           shoe: " ",
-#           points: " ",
-#           rebounds: " ",
-#           assists: " ",
-#           steals: " ",
-#           blocks: " ",
-#           slam_dunks: " "
+          number: " ",
+          shoe: " ",
+          points: " ",
+          rebounds: " ",
+          assists: " ",
+          steals: " ",
+          blocks: " ",
+          slam_dunks: " "
 #     ]
