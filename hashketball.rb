@@ -12,14 +12,7 @@ def game_hash
                 blocks: 1,
                 slam_dunks: 1},
                   {player_name: "Reggie Evans",
-                    number: 30,
-                    shoe: " ",
-                    points: " ",
-                    rebounds: " ",
-                    assists: " ",
-                    steals: " ",
-                    blocks: " ",
-                    slam_dunks: " "
+
                   }
                 ]
   },
