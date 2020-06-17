@@ -10,16 +10,7 @@ def game_hash
                 assists: 12,
                 steals: 3,
                 blocks: 1,
-                slam_dunks: 1],
-                  [player_name: "Reggie Evans",
-                          number: " ",
-                          shoe: " ",
-                          points: " ",
-                          rebounds: " ",
-                          assists: " ",
-                          steals: " ",
-                          blocks: " ",
-                          slam_dunks: " "]
+                slam_dunks: 1]
   },
   away: {
     team_name: {},
